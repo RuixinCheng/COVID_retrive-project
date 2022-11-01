@@ -1,1 +1,2 @@
 # COVID_retrive-project
+# This document aims to illustrate the reason and process of technology usage and briefly shows the results that we generate from the information retrieval system. The primary use of our information retrieval system is to help Public Health Institutes search Covid-19-related data in the United States to identify counties at high risk for Covid-19. Also, by comparing the result, they can know if this risk is related to vaccination rate, smoking rate, poverty rate, age situation, and so on.
